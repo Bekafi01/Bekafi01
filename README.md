@@ -19,7 +19,7 @@ I’m at an **intermediate, project-driven level** in machine learning and data 
 
 ## 📌 Featured projects
 - **[Internship Readiness Platform](https://github.com/Bekafi01/internship-readiness-platform)**  
-  AI-powered full-stack platform for resume parsing, readiness scoring, skill-gap analysis, and personalized recommendations.
+  Full-stack AI platform for resume parsing, readiness scoring, and skill-gap recommendations.
 
 - **[Movie Recommender](https://github.com/Bekafi01/movie-recommender)**  
   End-to-end recommendation system with training pipeline, offline ranking evaluation, and Streamlit app.
@@ -34,4 +34,4 @@ I’m at an **intermediate, project-driven level** in machine learning and data 
 I’m improving model quality, backend reliability, and product usability in ML applications.
 
 ## 🤝 Let’s connect
-If you’re working on data science, ML, or analytics products, I’m open to collaboration.
+Open an issue or reach out through GitHub if you’d like to collaborate on data, ML, or analytics projects.
