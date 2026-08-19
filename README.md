@@ -117,21 +117,7 @@ I am a passionate **Data Scientist & Machine Learning Enthusiast** dedicated to 
 
 ---
 
-### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bekafi01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="Bereket's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekafi01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekafi01&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <sub>⭐️ Designed with precision by <a href="https://github.com/Bekafi01">Bereket Fikre</a> • Always open to collaborations & exciting data science opportunities! 🚀</sub>
+  <sub> • Always open to collaborations & exciting data science opportunities! 🚀</sub>
 </div>
